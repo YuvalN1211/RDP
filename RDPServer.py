@@ -18,3 +18,4 @@ print("Waiting for connections")
 
 # accept
 connected_socket, address = server_socket.accept()
+print(f"connected to {address}")
