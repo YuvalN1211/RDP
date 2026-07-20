@@ -1,3 +1,4 @@
+# dependencies
 import socket
 
 # creating the socket
